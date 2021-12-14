@@ -81,6 +81,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86_64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -100,4 +101,4 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
 
 BUNDLED WITH
-   2.2.27
+   2.2.32
